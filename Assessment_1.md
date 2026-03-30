@@ -18,8 +18,7 @@
 
 **Circuit Diagram:-**(Drawn On Wokwi)
     <img width="735" height="712" alt="image" src="https://github.com/user-attachments/assets/7c62f438-0491-4a33-80b5-a7acb27aff69" />
-
-**CODE:-**
+*Code of this program is in other file of repo named as "assessment_1_code.ino"*
 
 **EXPLANATION OF WORKING WITH CIRCUIT WIRING:-**
 
