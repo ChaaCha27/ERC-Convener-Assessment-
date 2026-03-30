@@ -1,6 +1,6 @@
-**GAME**:- 
+**GAME:-** BOSS BATTLE
 
-**Budget**:-
+**Budget:-**
     ( ALl the price information is taken form Robu)
     
     1.Arduino Nano R3 - 220 Rupees  
@@ -16,5 +16,10 @@
     **Net Budget**:- ~692 Rupees 
     
 
-**Circuit Diagram**:-
-      
+**Circuit Diagram:-**(Drawn On Wokwi)
+<img width="735" height="712" alt="image" src="https://github.com/user-attachments/assets/7c62f438-0491-4a33-80b5-a7acb27aff69" />
+
+**CODE:-**
+
+**EXPLANATION OF WORKING WITH CIRCUIT WIRING:-**
+
