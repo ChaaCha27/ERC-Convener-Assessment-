@@ -96,10 +96,10 @@ void loop() {
     if (move == 3) display.println("SPECIAL!");
     display.display();
 
-    // ⏱️ Response window — 4 seconds with a live countdown bar
+    // ⏱️ Response window — 2 seconds with a live countdown bar
     unsigned long startTime = millis();
     bool correct = false;
-    unsigned long totalTime = 4000;
+    unsigned long totalTime = 2000;
 
     while (millis() - startTime < totalTime) {
       // Live timer bar at the bottom of the screen
