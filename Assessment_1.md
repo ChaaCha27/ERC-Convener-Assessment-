@@ -1,6 +1,8 @@
 **GAME**:- 
 
 **Budget**:-
+    ( ALl the price information is taken form Robu)
+    
     1.Arduino Nano R3 - 220 Rupees  
     2.OLED Display - 200 Ruppes 
     3.3-Tactile Push Button (Pack of 10) - 14 Rupees 
@@ -12,8 +14,7 @@
     9.Mini USB Cable (Type A to Mini B) - 70 Rupees
     10.2 LEDs (5mm)(Red and Green) - 10 Rupees
     **Net Budget**:- ~692 Rupees 
-
-    ( ALl the price information is taken form Robu)
+    
 
 **Circuit Diagram**:-
       
